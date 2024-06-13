@@ -1,0 +1,13 @@
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\bin\Debug\Mmdo.exe.config
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\bin\Debug\Mmdo.exe
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\bin\Debug\Mmdo.pdb
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\bin\Debug\Newtonsoft.Json.dll
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\bin\Debug\Newtonsoft.Json.xml
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\obj\Debug\Mmdo_Tsalko.csproj.AssemblyReference.cache
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\obj\Debug\Mmdo.FormStart.resources
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\obj\Debug\Mmdo.Properties.Resources.resources
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\obj\Debug\Mmdo_Tsalko.csproj.GenerateResource.cache
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\obj\Debug\Mmdo_Tsalko.csproj.CoreCompileInputs.cache
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\obj\Debug\Mmdo_Tsalko.csproj.CopyComplete
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\obj\Debug\Mmdo.exe
+D:\DFiles\LP\Courseworks\ММДО\All Variants\var Salo Bread Potato\Mmdo_Tsalko\obj\Debug\Mmdo.pdb
